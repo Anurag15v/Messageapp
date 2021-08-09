@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//Anurag15v.github.io/Messageapp/static/css/main.6d4e7b48.chunk.css",
+    "main.js": "//Anurag15v.github.io/Messageapp/static/js/main.ce86b2ca.chunk.js",
+    "main.js.map": "//Anurag15v.github.io/Messageapp/static/js/main.ce86b2ca.chunk.js.map",
+    "runtime-main.js": "//Anurag15v.github.io/Messageapp/static/js/runtime-main.d1e7591d.js",
+    "runtime-main.js.map": "//Anurag15v.github.io/Messageapp/static/js/runtime-main.d1e7591d.js.map",
+    "static/css/2.96777fae.chunk.css": "//Anurag15v.github.io/Messageapp/static/css/2.96777fae.chunk.css",
+    "static/js/2.3a1ca84e.chunk.js": "//Anurag15v.github.io/Messageapp/static/js/2.3a1ca84e.chunk.js",
+    "static/js/2.3a1ca84e.chunk.js.map": "//Anurag15v.github.io/Messageapp/static/js/2.3a1ca84e.chunk.js.map",
+    "static/js/3.4dce8f2b.chunk.js": "//Anurag15v.github.io/Messageapp/static/js/3.4dce8f2b.chunk.js",
+    "static/js/3.4dce8f2b.chunk.js.map": "//Anurag15v.github.io/Messageapp/static/js/3.4dce8f2b.chunk.js.map",
+    "index.html": "//Anurag15v.github.io/Messageapp/index.html",
+    "static/css/2.96777fae.chunk.css.map": "//Anurag15v.github.io/Messageapp/static/css/2.96777fae.chunk.css.map",
+    "static/css/main.6d4e7b48.chunk.css.map": "//Anurag15v.github.io/Messageapp/static/css/main.6d4e7b48.chunk.css.map",
+    "static/js/2.3a1ca84e.chunk.js.LICENSE.txt": "//Anurag15v.github.io/Messageapp/static/js/2.3a1ca84e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e7591d.js",
+    "static/css/2.96777fae.chunk.css",
+    "static/js/2.3a1ca84e.chunk.js",
+    "static/css/main.6d4e7b48.chunk.css",
+    "static/js/main.ce86b2ca.chunk.js"
+  ]
+}
